@@ -24,9 +24,9 @@ I mostly work with React, Laravel PHP Frameworks and Cloud based technologies(AW
 </p>
 
 <p align="left">  
-- 📫 How to reach me :<br/>
+- 📫 <h3> Let’s Connect : </h3>
 - Connect with me on   <a href="https://www.linkedin.com/in/pratik2009/" target="_blank" rel="noreferrer"> Linkedin </a> 👨🏻‍💻 <br />
-- Shoot me an <a href="prajapatipratik20@gmail.com" target="_blank" rel="noreferrer"> Email </a></p> <br />
-
+- Shoot me an <a href="prajapatipratik20@gmail.com" target="_blank" rel="noreferrer"> Email </a><br />
+- Read my blogs on <a href="https://pratikprajapati.hashnode.dev/" target="_blank" rel="noreferrer"> Hashnode </a></p> <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikprajapati20&label=Profile%20views&color=0e75b6&style=flat" alt="pratikprajapati20" /> </p>
